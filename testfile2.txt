@@ -1,1 +1,3 @@
 making change to the file for git to track since we have added the file to staging index
+checking git diff to spot this ddition in this file
+Logitech Lift Vertical Ergonomic Mouse, Wireless, Bluetooth or Logi Bolt USB Receiver, Quiet clicks, 4 Bu

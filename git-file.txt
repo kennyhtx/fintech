@@ -1,5 +1,5 @@
 Hmm. noticed the file updated in the github (master repo) after the gitpush from AWS instance
-Now making change to the file in th emaster repo to later try gitpull in the instance.
+Now making change to the file in th emaster repo to later try gitfetch + git merge or a gitpull in the instance.
 Lets go!
 
 How to Get a GST Number in Canada: GST Registrationhttps://squareup.com › townsquare › how-to-get-a-gst-n...

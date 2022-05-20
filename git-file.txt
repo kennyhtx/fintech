@@ -1,4 +1,6 @@
-
+Hmm. noticed the file updated in the github (master repo) after the gitpush from AWS instance
+Now making change to the file in th emaster repo to later try gitpull in the instance.
+Lets go!
 
 How to Get a GST Number in Canada: GST Registrationhttps://squareup.com › townsquare › how-to-get-a-gst-n...
 Jan 17, 2022 — The Canada Revenue Agency (CRA) assigns a Goods and Services Tax (GST) number, or business number, to your business in order to track collection ...
@@ -21,3 +23,5 @@ Set Number
 Adding new lines at bottom
 
 Emeka, Judith Thomas Bron
+
+github commit and run
